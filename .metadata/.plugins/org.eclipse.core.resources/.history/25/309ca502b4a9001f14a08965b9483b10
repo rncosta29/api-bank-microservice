@@ -1,0 +1,50 @@
+server.port=8765
+
+spring.application.name=api-gateway
+#spring.cloud.gateway.discovery.locator.enabled=true
+#spring.cloud.gateway.routes[0].id=cadastro-ms
+#spring.cloud.gateway.routes[0].uri=lb://cadastro-ms/**
+#spring.cloud.gateway.routes[0].predicates[0]=Path=/cadastro
+#spring.cloud.gateway.routes[0].predicates[1]=Path=/swagger-ui/index.html
+#
+##spring.cloud.gateway.routes[1].id=clientes-ms
+##spring.cloud.gateway.routes[1].uri=lb://clientes-ms/**
+##spring.cloud.gateway.routes[1].predicates[0]=Path=/cliente
+##spring.cloud.gateway.routes[1].predicates[1]=Path=/endereco
+##
+##spring.cloud.gateway.routes[2].id=pedido-ms
+##spring.cloud.gateway.routes[2].uri=lb://pedido-ms/**
+##spring.cloud.gateway.routes[2].predicates[0]=Path=/pedidos
+##spring.cloud.gateway.routes[2].predicates[1]=Path=/v3/api-docs
+##spring.cloud.gateway.routes[2].filters[0]=RewritePath=/pedido-ms/(?<path>.*), /${path}
+##
+##spring.cloud.gateway.routes[3].id=openapi
+##spring.cloud.gateway.routes[3].uri=lb://api-gateway
+##spring.cloud.gateway.routes[3].predicates[0]=Path=/v3/api-docs/**
+##spring.cloud.gateway.routes[3].filters[0]=RewritePath=/v3/api-docs/(?<path>.*), /${path}/v3/api-docs
+#
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka
+eureka.client.register-with-eureka=true
+eureka.client.fetch-registry=true
+eureka.instance.prefer-ip-address=true
+eureka.instance.lease-renewal-interval-in-seconds=10
+#
+#
+#springdoc.enable-native-support=true
+#springdoc.api-docs.groups.enabled=true
+#springdoc.api-docs.path=/pedido-ms
+#springdoc.api-docs.enabled=true
+#springdoc.group-configs[0].group=api-gateway
+#springdoc.group-configs[0].packages-to-scan[0]=dev.kambei.apigateway
+#springdoc.group-configs[0].display-name=API Gateway
+#springdoc.group-configs[1].group=pedido-ms
+#springdoc.group-configs[1].paths-to-match[0]=/pedido-ms/**
+#springdoc.group-configs[1].display-name=Characters Service
+#
+#springdoc.swagger-ui.path=/swagger-ui/index.html
+#springdoc.swagger-ui.config-url=/v3/api-docs/swagger-config
+#springdoc.swagger-ui.url=/v3/api-docs
+#springdoc.swagger-ui.urls[0].url=/v3/api-docs
+#springdoc.swagger-ui.urls[0].name=API Gateway
+#springdoc.swagger-ui.urls[1].url=/pedido-ms/v3/api-docs
+#springdoc.swagger-ui.urls[1].name=Pedido Service
