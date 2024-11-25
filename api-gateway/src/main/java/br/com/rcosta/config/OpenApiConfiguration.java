@@ -33,7 +33,7 @@ public class OpenApiConfiguration {
 		
 		definitions.stream().filter(
 					routeDefinition -> routeDefinition.getId()
-						.matches(".*-ms"))
+						.matches(".*"))
 							.forEach(routeDefinition -> {
 								String name = routeDefinition.getId();
 								config.addGroup(name);
