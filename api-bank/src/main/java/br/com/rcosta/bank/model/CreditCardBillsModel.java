@@ -1,7 +1,7 @@
 package br.com.rcosta.bank.model;
 
 import java.io.Serializable;
-import java.sql.Date;
+import java.time.LocalDate;
 import java.util.Objects;
 
 import jakarta.persistence.CascadeType;
@@ -25,7 +25,7 @@ public class CreditCardBillsModel implements Serializable {
 	
 	@NotNull
 	private String name;
-	private Date date;
+	private LocalDate date;
 	
 	@NotNull
 	private Integer paymentMonth;
@@ -42,7 +42,7 @@ public class CreditCardBillsModel implements Serializable {
 	@ManyToOne(cascade = CascadeType.PERSIST, targetEntity = CreditCardModel.class)
 	private CreditCardModel creditCard;
 
-	public CreditCardBillsModel(Long id, String name, Date date, Integer paymentMonth,
+	public CreditCardBillsModel(Long id, String name, LocalDate date, Integer paymentMonth,
 			Integer paymentYear, Double price, Boolean isParcel, CreditCardModel creditCard) {
 		this.id = id;
 		this.name = name;
@@ -71,11 +71,11 @@ public class CreditCardBillsModel implements Serializable {
 		this.name = name;
 	}
 
-	public Date getDate() {
+	public LocalDate getDate() {
 		return date;
 	}
 
-	public void setDate(Date date) {
+	public void setDate(LocalDate date) {
 		this.date = date;
 	}
 

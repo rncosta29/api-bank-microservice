@@ -1,12 +1,12 @@
 package br.com.rcosta.bank.dto;
 
-import java.sql.Date;
+import java.time.LocalDate;
 
 public class CreditCardBillsDto {
 
 	private Long id;
 	private String name;
-	private Date date;
+	private LocalDate date;
 	private Double price;
 	private Boolean isParcel;
 	private Integer paymentMonth;
@@ -32,11 +32,11 @@ public class CreditCardBillsDto {
 		this.name = name;
 	}
 
-	public Date getDate() {
+	public LocalDate getDate() {
 		return date;
 	}
 
-	public void setDate(Date date) {
+	public void setDate(LocalDate date) {
 		this.date = date;
 	}
 
