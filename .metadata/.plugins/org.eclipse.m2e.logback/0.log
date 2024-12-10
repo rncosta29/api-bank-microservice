@@ -6708,3 +6708,49 @@ Caused by: java.util.concurrent.CancellationException: null
 2024-12-09 11:52:17,368 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-09 11:52:17,369 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-09 11:52:17,371 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-server\src\test\resources
+2024-12-10 13:03:37,990 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-10 13:03:50,316 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-bank\pom.xml.
+2024-12-10 13:03:51,483 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-gateway:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-gateway\pom.xml.
+2024-12-10 13:03:51,846 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-server\pom.xml.
+2024-12-10 13:03:53,683 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2024-12-10 13:03:53,684 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-12-10 13:03:53,689 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2024-12-10 13:03:53,693 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2024-12-10 13:03:53,694 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/test/resources
+2024-12-10 13:03:54,702 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-server/src/main/java
+2024-12-10 13:03:54,702 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-server/src/main/resources
+2024-12-10 13:03:54,705 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-server/src/main/resources
+2024-12-10 13:03:54,708 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-server/src/test/java
+2024-12-10 13:03:54,709 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-server/src/test/resources
+2024-12-10 13:03:55,355 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/main/java
+2024-12-10 13:03:55,356 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-10 13:03:55,359 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-10 13:03:55,363 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/test/java
+2024-12-10 13:03:55,364 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/test/resources
+2024-12-10 13:03:56,003 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 7 sec
+2024-12-10 13:03:56,358 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-10 13:03:57,240 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-bank\pom.xml.
+2024-12-10 13:03:58,368 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-server\pom.xml.
+2024-12-10 13:03:59,875 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/main/java
+2024-12-10 13:03:59,876 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-10 13:03:59,877 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-10 13:03:59,877 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/test/java
+2024-12-10 13:03:59,878 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/test/resources
+2024-12-10 13:04:00,619 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-server/src/main/java
+2024-12-10 13:04:00,620 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-server/src/main/resources
+2024-12-10 13:04:00,621 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-server/src/main/resources
+2024-12-10 13:04:00,621 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-server/src/test/java
+2024-12-10 13:04:00,622 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-server/src/test/resources
+2024-12-10 13:04:01,522 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 1.00 sec 
+2024-12-10 13:04:02,290 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 13:04:02,305 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 13:04:02,309 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-10 13:04:02,903 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 13:04:02,918 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 13:04:02,921 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-gateway\src\test\resources
+2024-12-10 13:04:03,150 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 13:04:03,161 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 13:04:03,165 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-server\src\test\resources
+2024-12-10 13:40:30,035 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 13:40:30,057 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 13:40:30,060 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
