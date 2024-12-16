@@ -6754,3 +6754,946 @@ Caused by: java.util.concurrent.CancellationException: null
 2024-12-10 13:40:30,035 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-10 13:40:30,057 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-10 13:40:30,060 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-10 14:33:01,456 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 14:33:01,470 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 14:33:01,472 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-10 14:33:59,867 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 14:33:59,877 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 14:33:59,881 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-10 15:43:12,756 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 15:43:12,803 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 15:43:12,810 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-10 22:02:51,529 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 22:02:51,605 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 22:02:51,609 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-gateway\src\test\resources
+2024-12-10 22:17:16,848 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 22:17:16,947 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 22:17:16,950 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-gateway\src\test\resources
+2024-12-10 22:17:29,932 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 22:17:30,111 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 22:17:30,115 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-server\src\test\resources
+2024-12-10 22:17:46,429 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 22:17:46,496 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 22:17:46,499 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 09:35:55,536 [Worker-81: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-bank\pom.xml.
+2024-12-11 09:35:57,209 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1.pom
+2024-12-11 09:35:57,276 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1.pom
+2024-12-11 09:35:57,290 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1.pom
+2024-12-11 09:35:57,445 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3.pom
+2024-12-11 09:35:57,460 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3.pom
+2024-12-11 09:35:57,464 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3.pom
+2024-12-11 09:35:57,635 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3.pom
+2024-12-11 09:35:57,648 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3.pom
+2024-12-11 09:35:57,652 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3.pom
+2024-12-11 09:35:57,812 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3.pom
+2024-12-11 09:35:57,855 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3.pom
+2024-12-11 09:35:57,859 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3.pom
+2024-12-11 09:35:58,195 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3.pom
+2024-12-11 09:35:58,207 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3.pom
+2024-12-11 09:35:58,211 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3.pom
+2024-12-11 09:35:58,392 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-tracer/1.3.3/prometheus-metrics-tracer-1.3.3.pom
+2024-12-11 09:35:58,406 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer/1.3.3/prometheus-metrics-tracer-1.3.3.pom
+2024-12-11 09:35:58,410 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer/1.3.3/prometheus-metrics-tracer-1.3.3.pom
+2024-12-11 09:35:58,579 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/opentelemetry/instrumentation/opentelemetry-instrumentation-bom-alpha/2.9.0-alpha/opentelemetry-instrumentation-bom-alpha-2.9.0-alpha.pom
+2024-12-11 09:35:58,619 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/instrumentation/opentelemetry-instrumentation-bom-alpha/2.9.0-alpha/opentelemetry-instrumentation-bom-alpha-2.9.0-alpha.pom
+2024-12-11 09:35:58,631 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/instrumentation/opentelemetry-instrumentation-bom-alpha/2.9.0-alpha/opentelemetry-instrumentation-bom-alpha-2.9.0-alpha.pom
+2024-12-11 09:35:58,790 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/opentelemetry/opentelemetry-bom-alpha/1.43.0-alpha/opentelemetry-bom-alpha-1.43.0-alpha.pom
+2024-12-11 09:35:58,832 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-bom-alpha/1.43.0-alpha/opentelemetry-bom-alpha-1.43.0-alpha.pom
+2024-12-11 09:35:58,836 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-bom-alpha/1.43.0-alpha/opentelemetry-bom-alpha-1.43.0-alpha.pom
+2024-12-11 09:35:58,994 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/opentelemetry/instrumentation/opentelemetry-instrumentation-bom/2.9.0/opentelemetry-instrumentation-bom-2.9.0.pom
+2024-12-11 09:35:59,010 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/instrumentation/opentelemetry-instrumentation-bom/2.9.0/opentelemetry-instrumentation-bom-2.9.0.pom
+2024-12-11 09:35:59,013 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/instrumentation/opentelemetry-instrumentation-bom/2.9.0/opentelemetry-instrumentation-bom-2.9.0.pom
+2024-12-11 09:35:59,204 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3.pom
+2024-12-11 09:35:59,222 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3.pom
+2024-12-11 09:35:59,226 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3.pom
+2024-12-11 09:35:59,899 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1.jar
+2024-12-11 09:36:00,044 [BasicRepositoryConnector-repo.spring.io-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3.jar
+2024-12-11 09:36:00,504 [BasicRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3.jar
+2024-12-11 09:36:00,505 [BasicRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3.jar
+2024-12-11 09:36:00,506 [BasicRepositoryConnector-repo.spring.io-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3.jar
+2024-12-11 09:36:00,507 [BasicRepositoryConnector-repo.spring.io-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3.jar
+2024-12-11 09:36:00,529 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1.jar
+2024-12-11 09:36:00,533 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1.jar
+2024-12-11 09:36:00,546 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3.jar
+2024-12-11 09:36:00,553 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3.jar
+2024-12-11 09:36:00,590 [BasicRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3.jar
+2024-12-11 09:36:00,594 [BasicRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3.jar
+2024-12-11 09:36:00,594 [BasicRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3.jar
+2024-12-11 09:36:00,598 [BasicRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3.jar
+2024-12-11 09:36:00,599 [BasicRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3.jar
+2024-12-11 09:36:00,603 [BasicRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3.jar
+2024-12-11 09:36:00,613 [BasicRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3.jar
+2024-12-11 09:36:00,719 [BasicRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3.jar
+2024-12-11 09:36:02,170 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:02,171 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:02,174 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 09:36:03,340 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1-sources.jar
+2024-12-11 09:36:03,431 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1-sources.jar
+2024-12-11 09:36:03,436 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1-sources.jar
+2024-12-11 09:36:03,441 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-registry-prometheus:1.14.1
+2024-12-11 09:36:03,465 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 09:36:03,479 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:03,482 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 09:36:04,038 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3-sources.jar
+2024-12-11 09:36:04,098 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3-sources.jar
+2024-12-11 09:36:04,112 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3-sources.jar
+2024-12-11 09:36:04,114 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-core:1.3.3
+2024-12-11 09:36:04,705 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3-sources.jar
+2024-12-11 09:36:04,737 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3-sources.jar
+2024-12-11 09:36:04,748 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3-sources.jar
+2024-12-11 09:36:04,750 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-model:1.3.3
+2024-12-11 09:36:05,338 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3-sources.jar
+2024-12-11 09:36:05,370 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3-sources.jar
+2024-12-11 09:36:05,374 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3-sources.jar
+2024-12-11 09:36:05,377 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-config:1.3.3
+2024-12-11 09:36:05,823 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3-sources.jar
+2024-12-11 09:36:05,856 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3-sources.jar
+2024-12-11 09:36:05,860 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3-sources.jar
+2024-12-11 09:36:05,862 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-tracer-common:1.3.3
+2024-12-11 09:36:06,492 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3-sources.jar
+2024-12-11 09:36:06,525 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3-sources.jar
+2024-12-11 09:36:06,592 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3-sources.jar
+2024-12-11 09:36:06,595 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-exposition-formats:1.3.3
+2024-12-11 09:36:16,851 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-gateway:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-gateway\pom.xml.
+2024-12-11 09:36:18,542 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:18,543 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:18,546 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-gateway\src\test\resources
+2024-12-11 09:36:19,766 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 09:36:19,779 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:19,781 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-gateway\src\test\resources
+2024-12-11 09:36:37,849 [Worker-86: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-server\pom.xml.
+2024-12-11 09:36:38,789 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:38,789 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:38,793 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-server\src\test\resources
+2024-12-11 09:36:40,028 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 09:36:40,036 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:36:40,038 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-server\src\test\resources
+2024-12-11 09:39:54,843 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-bank\pom.xml.
+2024-12-11 09:40:00,405 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1.pom
+2024-12-11 09:40:00,409 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1.pom
+2024-12-11 09:40:00,569 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul/4.2.0-RC1/spring-cloud-consul-4.2.0-RC1.pom
+2024-12-11 09:40:00,573 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul/4.2.0-RC1/spring-cloud-consul-4.2.0-RC1.pom
+2024-12-11 09:40:00,732 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1.pom
+2024-12-11 09:40:00,736 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1.pom
+2024-12-11 09:40:00,895 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-core/4.2.0-RC1/spring-cloud-consul-core-4.2.0-RC1.pom
+2024-12-11 09:40:00,903 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-core/4.2.0-RC1/spring-cloud-consul-core-4.2.0-RC1.pom
+2024-12-11 09:40:01,062 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5.pom
+2024-12-11 09:40:01,127 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5.pom
+2024-12-11 09:40:01,129 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5.pom
+2024-12-11 09:40:01,283 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.pom
+2024-12-11 09:40:01,298 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.pom
+2024-12-11 09:40:01,302 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.pom
+2024-12-11 09:40:01,455 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/httpcomponents/httpcomponents-client/4.5.5/httpcomponents-client-4.5.5.pom
+2024-12-11 09:40:01,469 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.5/httpcomponents-client-4.5.5.pom
+2024-12-11 09:40:01,473 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.5/httpcomponents-client-4.5.5.pom
+2024-12-11 09:40:01,625 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
+2024-12-11 09:40:01,638 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
+2024-12-11 09:40:01,643 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
+2024-12-11 09:40:01,807 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-discovery/4.2.0-RC1/spring-cloud-consul-discovery-4.2.0-RC1.pom
+2024-12-11 09:40:01,811 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-discovery/4.2.0-RC1/spring-cloud-consul-discovery-4.2.0-RC1.pom
+2024-12-11 09:40:02,408 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1.jar
+2024-12-11 09:40:02,411 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1.jar
+2024-12-11 09:40:02,563 [BasicRepositoryConnector-repo.spring.io-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5.jar
+2024-12-11 09:40:02,883 [BasicRepositoryConnector-repo.spring.io-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1.jar
+2024-12-11 09:40:02,886 [BasicRepositoryConnector-repo.spring.io-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1.jar
+2024-12-11 09:40:02,887 [BasicRepositoryConnector-repo.spring.io-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-discovery/4.2.0-RC1/spring-cloud-consul-discovery-4.2.0-RC1.jar
+2024-12-11 09:40:03,029 [BasicRepositoryConnector-repo.spring.io-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-core/4.2.0-RC1/spring-cloud-consul-core-4.2.0-RC1.jar
+2024-12-11 09:40:03,185 [BasicRepositoryConnector-repo.spring.io-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-core/4.2.0-RC1/spring-cloud-consul-core-4.2.0-RC1.jar
+2024-12-11 09:40:03,186 [BasicRepositoryConnector-repo.spring.io-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-discovery/4.2.0-RC1/spring-cloud-consul-discovery-4.2.0-RC1.jar
+2024-12-11 09:40:03,209 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5.jar
+2024-12-11 09:40:03,233 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5.jar
+2024-12-11 09:40:03,860 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:40:03,860 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:40:03,864 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 09:40:04,513 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 09:40:04,525 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:40:04,528 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 09:40:05,037 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1-sources.jar
+2024-12-11 09:40:05,212 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1-sources.jar
+2024-12-11 09:40:05,218 [Worker-81: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-consul-discovery:4.2.0-RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-consul-discovery:jar:sources:4.2.0-RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-11 09:40:05,674 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1-sources.jar
+2024-12-11 09:40:05,859 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1-sources.jar
+2024-12-11 09:40:05,861 [Worker-81: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-consul:4.2.0-RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-consul:jar:sources:4.2.0-RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-11 09:40:06,310 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-core/4.2.0-RC1/spring-cloud-consul-core-4.2.0-RC1-sources.jar
+2024-12-11 09:40:06,455 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-core/4.2.0-RC1/spring-cloud-consul-core-4.2.0-RC1-sources.jar
+2024-12-11 09:40:06,458 [Worker-81: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-consul-core:4.2.0-RC1
+2024-12-11 09:40:07,064 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5-sources.jar
+2024-12-11 09:40:07,096 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5-sources.jar
+2024-12-11 09:40:07,107 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/ecwid/consul/consul-api/1.4.5/consul-api-1.4.5-sources.jar
+2024-12-11 09:40:07,109 [Worker-81: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.ecwid.consul:consul-api:1.4.5
+2024-12-11 09:40:07,706 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-discovery/4.2.0-RC1/spring-cloud-consul-discovery-4.2.0-RC1-sources.jar
+2024-12-11 09:40:08,006 [Worker-81: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-discovery/4.2.0-RC1/spring-cloud-consul-discovery-4.2.0-RC1-sources.jar
+2024-12-11 09:40:08,009 [Worker-81: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-consul-discovery:4.2.0-RC1
+2024-12-11 09:40:23,990 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 09:40:23,994 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 09:40:23,996 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:05:01,460 [Worker-107: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1-javadoc.jar
+2024-12-11 11:05:01,685 [Worker-107: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-consul-discovery/4.2.0-RC1/spring-cloud-starter-consul-discovery-4.2.0-RC1-javadoc.jar
+2024-12-11 11:05:01,687 [Worker-107: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-consul-discovery:4.2.0-RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-consul-discovery:jar:javadoc:4.2.0-RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-11 11:05:02,281 [Worker-107: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1-javadoc.jar
+2024-12-11 11:05:02,732 [Worker-107: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-consul/4.2.0-RC1/spring-cloud-starter-consul-4.2.0-RC1-javadoc.jar
+2024-12-11 11:05:02,734 [Worker-107: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-consul:4.2.0-RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-consul:jar:javadoc:4.2.0-RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-11 11:08:06,133 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:08:06,177 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:08:06,179 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:13:21,656 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:13:21,668 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:13:21,671 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:14:53,156 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:14:53,173 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:14:53,175 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:21:42,632 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:21:42,636 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:21:42,638 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:24:49,877 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:24:49,882 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:24:49,884 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:25:50,874 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:25:50,878 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:25:50,880 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:26:10,234 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:26:10,239 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:26:10,242 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:27:41,186 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 22.0.1+8
+2024-12-11 11:27:41,232 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@1ced2e42{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@3adaa2a3{STARTED}}
+2024-12-11 11:27:41,233 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-12-11 11:27:41,255 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2660d7ac{HTTP/1.1, (http/1.1)}{127.0.0.1:54304}
+2024-12-11 11:27:41,284 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@697f1959{STARTING}[12.0.9,sto=0] @80651251ms
+2024-12-11 11:30:11,139 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:30:11,144 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:30:11,146 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:30:31,321 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:30:31,325 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:30:31,328 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:33:20,146 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:33:20,152 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:33:20,154 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:33:47,561 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:33:47,567 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:33:47,569 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:34:08,535 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:34:08,539 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:34:08,541 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:34:20,532 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:34:20,536 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:34:20,538 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:35:00,952 [Worker-137: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\api-bank\pom.xml.
+2024-12-11 11:35:02,544 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:35:02,544 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:35:02,548 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:35:03,939 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:35:03,953 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:35:03,956 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-11 11:35:15,960 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 11:35:15,965 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-11 11:35:15,967 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-16 09:51:07,894 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-16 12:41:48,054 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 12:41:48,086 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 12:41:48,091 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-16 12:41:53,434 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 12:41:53,543 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 12:41:53,550 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-gateway\src\test\resources
+2024-12-16 12:41:56,813 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 12:41:56,825 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 12:41:56,829 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-server\src\test\resources
+2024-12-16 12:42:58,303 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 12:42:58,304 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 12:42:58,309 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\api-bank\src\test\resources
+2024-12-16 13:09:22,890 [Worker-62: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - File not found: D:\Projetos\Java\api-bank-microservice\api-server\pom.xml.
+org.eclipse.core.internal.resources.ResourceException: File not found: D:\Projetos\Java\api-bank-microservice\api-server\pom.xml.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:882)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:299)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:290)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:589)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.Exception: File not found: D:\Projetos\Java\api-bank-microservice\api-server\pom.xml.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 27 common frames omitted
+2024-12-16 13:10:52,865 [Worker-57: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-gateway:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\gateway\pom.xml.
+2024-12-16 13:10:53,379 [main] ERROR o.e.m2e.editor.pom.MavenPomEditor - Cannot determine URI for '/api-gateway/pom.xml'.
+org.eclipse.ui.PartInitException: Cannot determine URI for '/api-gateway/pom.xml'.
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3202)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3213)
+	at org.eclipse.ui.part.MultiPageEditorPart.addPage(MultiPageEditorPart.java:224)
+	at org.eclipse.ui.forms.editor.FormEditor.addPage(FormEditor.java:331)
+	at org.eclipse.ui.part.MultiPageEditorPart.addPage(MultiPageEditorPart.java:203)
+	at org.eclipse.ui.forms.editor.FormEditor.addPage(FormEditor.java:313)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addFallbackEditors(MavenPomEditor.java:361)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addPages(MavenPomEditor.java:337)
+	at org.eclipse.ui.forms.editor.FormEditor.createPages(FormEditor.java:143)
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:332)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:977)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:939)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:139)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:386)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:312)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:90)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:59)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4814)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:168)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:187)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1391)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1341)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.closePart(StackRenderer.java:1362)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.close(StackRenderer.java:1227)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1976)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:338)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4285)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1160)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4083)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/api-gateway/pom.xml'.
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:239)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:116)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:481)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4187)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1483)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:153)
+	at org.eclipse.ui.internal.genericeditor.ExtensionBasedTextEditor.doSetInput(ExtensionBasedTextEditor.java:92)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.lambda$1(AbstractTextEditor.java:3171)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:434)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:354)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2335)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2332)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3188)
+	... 81 common frames omitted
+2024-12-16 13:10:54,547 [Worker-57: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\microservices\api-bank\pom.xml.
+2024-12-16 13:10:54,940 [Worker-57: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:10:58,663 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/main/java
+2024-12-16 13:10:58,674 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-12-16 13:10:58,675 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-12-16 13:10:58,677 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/test/java
+2024-12-16 13:10:58,678 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/test/resources
+2024-12-16 13:10:59,978 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2024-12-16 13:10:59,981 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2024-12-16 13:10:59,985 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2024-12-16 13:10:59,985 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2024-12-16 13:10:59,986 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/test/resources
+2024-12-16 13:11:01,384 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/main/java
+2024-12-16 13:11:01,385 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-16 13:11:01,386 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-16 13:11:01,387 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/test/java
+2024-12-16 13:11:01,388 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/test/resources
+2024-12-16 13:11:02,825 [Worker-57: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 14 sec
+2024-12-16 13:11:03,745 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-16 13:11:06,039 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\microservices\api-bank\pom.xml.
+2024-12-16 13:11:07,048 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-gateway:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\gateway\pom.xml.
+2024-12-16 13:11:07,396 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:11:09,201 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/main/java
+2024-12-16 13:11:09,202 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-16 13:11:09,203 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/main/resources
+2024-12-16 13:11:09,203 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-bank/src/test/java
+2024-12-16 13:11:09,204 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-bank/src/test/resources
+2024-12-16 13:11:09,759 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/main/java
+2024-12-16 13:11:09,760 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-12-16 13:11:09,760 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-12-16 13:11:09,761 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/test/java
+2024-12-16 13:11:09,761 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/test/resources
+2024-12-16 13:11:10,291 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2024-12-16 13:11:10,292 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2024-12-16 13:11:10,292 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2024-12-16 13:11:10,293 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2024-12-16 13:11:10,293 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/test/resources
+2024-12-16 13:11:12,089 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 3 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 1.00 sec 
+2024-12-16 13:11:12,501 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:11:12,632 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:11:12,637 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\microservices\api-bank\src\test\resources
+2024-12-16 13:11:13,125 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:11:13,579 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:11:13,583 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\gateway\src\test\resources
+2024-12-16 13:11:13,761 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:11:13,772 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:11:13,776 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\server\src\test\resources
+2024-12-16 13:12:26,744 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:12:26,901 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:12:26,904 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\gateway\src\test\resources
+2024-12-16 13:12:29,023 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:12:29,049 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:12:29,052 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\microservices\api-bank\src\test\resources
+2024-12-16 13:12:59,681 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:12:59,719 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:12:59,721 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\server\src\test\resources
+2024-12-16 13:16:03,694 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:16:06,166 [Worker-65: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-16 13:16:06,473 [Worker-65: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:16:07,895 [Worker-65: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-12-16 13:16:07,899 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-16 13:16:08,082 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:16:09,298 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-12-16 13:17:49,987 [Worker-58: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:18:12,347 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter:4.2.0-RC1
+2024-12-16 13:18:12,351 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-context:4.2.0-RC1
+2024-12-16 13:18:12,355 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.security:spring-security-crypto:6.4.1
+2024-12-16 13:18:12,358 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-commons:4.2.0-RC1
+2024-12-16 13:18:12,361 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.bouncycastle:bcprov-jdk18on:1.78.1
+2024-12-16 13:18:14,524 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/4.2.0-RC1/spring-cloud-netflix-eureka-server-4.2.0-RC1-javadoc.jar
+2024-12-16 13:18:15,124 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/4.2.0-RC1/spring-cloud-netflix-eureka-server-4.2.0-RC1-javadoc.jar
+2024-12-16 13:18:15,130 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-netflix-eureka-server:4.2.0-RC1
+2024-12-16 13:18:15,133 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-web:3.4.0
+2024-12-16 13:18:15,138 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-json:3.4.0
+2024-12-16 13:18:15,141 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.18.1
+2024-12-16 13:18:15,144 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.18.1
+2024-12-16 13:18:15,148 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.module:jackson-module-parameter-names:2.18.1
+2024-12-16 13:18:15,151 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-tomcat:3.4.0
+2024-12-16 13:18:15,157 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-web:6.2.0
+2024-12-16 13:18:15,161 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-webmvc:6.2.0
+2024-12-16 13:18:15,164 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-actuator:3.4.0
+2024-12-16 13:18:15,168 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-actuator-autoconfigure:3.4.0
+2024-12-16 13:18:15,171 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-actuator:3.4.0
+2024-12-16 13:18:15,175 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.micrometer:micrometer-jakarta9:1.14.1
+2024-12-16 13:18:15,769 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-freemarker/3.4.0/spring-boot-starter-freemarker-3.4.0-javadoc.jar
+2024-12-16 13:18:15,879 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.4.0/spring-boot-starter-freemarker-3.4.0-javadoc.jar
+2024-12-16 13:18:15,886 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.4.0/spring-boot-starter-freemarker-3.4.0-javadoc.jar
+2024-12-16 13:18:15,889 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-freemarker:3.4.0
+2024-12-16 13:18:16,483 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/freemarker/freemarker/2.3.33/freemarker-2.3.33-javadoc.jar
+2024-12-16 13:18:16,531 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.33/freemarker-2.3.33-javadoc.jar
+2024-12-16 13:18:16,627 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.33/freemarker-2.3.33-javadoc.jar
+2024-12-16 13:18:16,630 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.freemarker:freemarker:2.3.33
+2024-12-16 13:18:16,635 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-context-support:6.2.0
+2024-12-16 13:18:16,639 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-netflix-eureka-client:4.2.0-RC1
+2024-12-16 13:18:16,642 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.eureka:eureka-client:2.0.4
+2024-12-16 13:18:16,646 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.thoughtworks.xstream:xstream:1.4.20
+2024-12-16 13:18:16,649 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.github.x-stream:mxparser:1.2.2
+2024-12-16 13:18:16,653 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.spectator:spectator-api:1.7.3
+2024-12-16 13:18:16,656 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.httpcomponents:httpclient:4.5.3
+2024-12-16 13:18:16,660 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.httpcomponents:httpcore:4.4.16
+2024-12-16 13:18:16,664 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for commons-configuration:commons-configuration:1.10
+2024-12-16 13:18:16,668 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for commons-lang:commons-lang:2.6
+2024-12-16 13:18:16,671 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.netflix-commons:netflix-eventbus:0.3.0
+2024-12-16 13:18:16,674 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.netflix-commons:netflix-infix:0.3.0
+2024-12-16 13:18:16,677 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for commons-jxpath:commons-jxpath:1.3
+2024-12-16 13:18:16,681 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for joda-time:joda-time:2.3
+2024-12-16 13:18:16,684 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.antlr:antlr-runtime:3.4
+2024-12-16 13:18:16,688 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.google.code.gson:gson:2.11.0
+2024-12-16 13:18:16,691 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.servo:servo-core:0.5.3
+2024-12-16 13:18:16,696 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.commons:commons-math:2.2
+2024-12-16 13:18:16,701 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.annotation:javax.annotation-api:1.2
+2024-12-16 13:18:16,704 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.codehaus.jettison:jettison:1.5.4
+2024-12-16 13:18:16,708 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.httpcomponents.client5:httpclient5:5.4.1
+2024-12-16 13:18:16,712 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.httpcomponents.core5:httpcore5:5.3.1
+2024-12-16 13:18:16,716 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.httpcomponents.core5:httpcore5-h2:5.3.1
+2024-12-16 13:18:17,297 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-client-jersey3/2.0.4/eureka-client-jersey3-2.0.4-javadoc.jar
+2024-12-16 13:18:17,337 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client-jersey3/2.0.4/eureka-client-jersey3-2.0.4-javadoc.jar
+2024-12-16 13:18:17,367 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client-jersey3/2.0.4/eureka-client-jersey3-2.0.4-javadoc.jar
+2024-12-16 13:18:17,369 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.eureka:eureka-client-jersey3:2.0.4
+2024-12-16 13:18:17,979 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.9/jersey-apache-connector-3.1.9-javadoc.jar
+2024-12-16 13:18:18,009 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.9/jersey-apache-connector-3.1.9-javadoc.jar
+2024-12-16 13:18:18,046 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.9/jersey-apache-connector-3.1.9-javadoc.jar
+2024-12-16 13:18:18,048 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.connectors:jersey-apache-connector:3.1.9
+2024-12-16 13:18:18,052 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for commons-codec:commons-codec:1.17.1
+2024-12-16 13:18:18,641 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-logging/commons-logging/1.3.3/commons-logging-1.3.3-javadoc.jar
+2024-12-16 13:18:18,673 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.3.3/commons-logging-1.3.3-javadoc.jar
+2024-12-16 13:18:18,703 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.3.3/commons-logging-1.3.3-javadoc.jar
+2024-12-16 13:18:18,706 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for commons-logging:commons-logging:1.3.3
+2024-12-16 13:18:19,147 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-core-jersey3/2.0.4/eureka-core-jersey3-2.0.4-javadoc.jar
+2024-12-16 13:18:19,177 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core-jersey3/2.0.4/eureka-core-jersey3-2.0.4-javadoc.jar
+2024-12-16 13:18:19,209 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core-jersey3/2.0.4/eureka-core-jersey3-2.0.4-javadoc.jar
+2024-12-16 13:18:19,211 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.eureka:eureka-core-jersey3:2.0.4
+2024-12-16 13:18:19,215 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.eureka:eureka-core:2.0.4
+2024-12-16 13:18:19,218 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.google.guava:guava:33.3.1-jre
+2024-12-16 13:18:19,222 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.google.guava:failureaccess:1.0.2
+2024-12-16 13:18:19,225 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.checkerframework:checker-qual:3.43.0
+2024-12-16 13:18:19,229 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.google.errorprone:error_prone_annotations:2.28.0
+2024-12-16 13:18:19,232 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.google.j2objc:j2objc-annotations:3.0.0
+2024-12-16 13:18:19,676 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/containers/jersey-container-servlet/3.1.9/jersey-container-servlet-3.1.9-javadoc.jar
+2024-12-16 13:18:19,705 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.9/jersey-container-servlet-3.1.9-javadoc.jar
+2024-12-16 13:18:19,747 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.9/jersey-container-servlet-3.1.9-javadoc.jar
+2024-12-16 13:18:19,750 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.containers:jersey-container-servlet:3.1.9
+2024-12-16 13:18:20,331 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.9/jersey-container-servlet-core-3.1.9-javadoc.jar
+2024-12-16 13:18:20,362 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.9/jersey-container-servlet-core-3.1.9-javadoc.jar
+2024-12-16 13:18:20,404 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.9/jersey-container-servlet-core-3.1.9-javadoc.jar
+2024-12-16 13:18:20,407 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.containers:jersey-container-servlet-core:3.1.9
+2024-12-16 13:18:21,015 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/core/jersey-common/3.1.9/jersey-common-3.1.9-javadoc.jar
+2024-12-16 13:18:21,046 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.9/jersey-common-3.1.9-javadoc.jar
+2024-12-16 13:18:21,204 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.9/jersey-common-3.1.9-javadoc.jar
+2024-12-16 13:18:21,206 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-common:3.1.9
+2024-12-16 13:18:21,656 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/hk2/osgi-resource-locator/1.0.3/osgi-resource-locator-1.0.3-javadoc.jar
+2024-12-16 13:18:21,696 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.3/osgi-resource-locator-1.0.3-javadoc.jar
+2024-12-16 13:18:21,706 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.3/osgi-resource-locator-1.0.3-javadoc.jar
+2024-12-16 13:18:21,709 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:osgi-resource-locator:1.0.3
+2024-12-16 13:18:21,712 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.ws.rs:jakarta.ws.rs-api:3.1.0
+2024-12-16 13:18:22,305 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/core/jersey-server/3.1.9/jersey-server-3.1.9-javadoc.jar
+2024-12-16 13:18:22,337 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.9/jersey-server-3.1.9-javadoc.jar
+2024-12-16 13:18:22,463 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.9/jersey-server-3.1.9-javadoc.jar
+2024-12-16 13:18:22,466 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-server:3.1.9
+2024-12-16 13:18:22,470 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.inject:jakarta.inject-api:2.0.1
+2024-12-16 13:18:22,473 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.validation:jakarta.validation-api:3.0.2
+2024-12-16 13:18:23,077 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/core/jersey-client/3.1.9/jersey-client-3.1.9-javadoc.jar
+2024-12-16 13:18:23,106 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.9/jersey-client-3.1.9-javadoc.jar
+2024-12-16 13:18:23,163 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.9/jersey-client-3.1.9-javadoc.jar
+2024-12-16 13:18:23,166 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-client:3.1.9
+2024-12-16 13:18:23,763 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/inject/jersey-hk2/3.1.9/jersey-hk2-3.1.9-javadoc.jar
+2024-12-16 13:18:23,794 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.9/jersey-hk2-3.1.9-javadoc.jar
+2024-12-16 13:18:23,834 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.9/jersey-hk2-3.1.9-javadoc.jar
+2024-12-16 13:18:23,836 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.inject:jersey-hk2:3.1.9
+2024-12-16 13:18:24,418 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/hk2/hk2-locator/3.0.6/hk2-locator-3.0.6-javadoc.jar
+2024-12-16 13:18:24,451 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/3.0.6/hk2-locator-3.0.6-javadoc.jar
+2024-12-16 13:18:24,480 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/3.0.6/hk2-locator-3.0.6-javadoc.jar
+2024-12-16 13:18:24,483 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-locator:3.0.6
+2024-12-16 13:18:25,074 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/hk2/external/aopalliance-repackaged/3.0.6/aopalliance-repackaged-3.0.6-javadoc.jar
+2024-12-16 13:18:25,112 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/3.0.6/aopalliance-repackaged-3.0.6-javadoc.jar
+2024-12-16 13:18:25,134 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/3.0.6/aopalliance-repackaged-3.0.6-javadoc.jar
+2024-12-16 13:18:25,137 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2.external:aopalliance-repackaged:3.0.6
+2024-12-16 13:18:25,732 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/hk2/hk2-utils/3.0.6/hk2-utils-3.0.6-javadoc.jar
+2024-12-16 13:18:25,762 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/3.0.6/hk2-utils-3.0.6-javadoc.jar
+2024-12-16 13:18:25,792 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/3.0.6/hk2-utils-3.0.6-javadoc.jar
+2024-12-16 13:18:25,794 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-utils:3.0.6
+2024-12-16 13:18:26,388 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA-javadoc.jar
+2024-12-16 13:18:26,420 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA-javadoc.jar
+2024-12-16 13:18:26,509 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA-javadoc.jar
+2024-12-16 13:18:26,511 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.javassist:javassist:3.30.2-GA
+2024-12-16 13:18:26,973 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/hk2/spring-bridge/3.1.1/spring-bridge-3.1.1-javadoc.jar
+2024-12-16 13:18:27,008 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/spring-bridge/3.1.1/spring-bridge-3.1.1-javadoc.jar
+2024-12-16 13:18:27,032 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/spring-bridge/3.1.1/spring-bridge-3.1.1-javadoc.jar
+2024-12-16 13:18:27,034 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:spring-bridge:3.1.1
+2024-12-16 13:18:27,625 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/hk2/hk2-api/3.1.1/hk2-api-3.1.1-javadoc.jar
+2024-12-16 13:18:27,655 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/3.1.1/hk2-api-3.1.1-javadoc.jar
+2024-12-16 13:18:27,715 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/3.1.1/hk2-api-3.1.1-javadoc.jar
+2024-12-16 13:18:27,718 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-api:3.1.1
+2024-12-16 13:18:28,336 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.1/jackson-dataformat-xml-2.18.1-javadoc.jar
+2024-12-16 13:18:28,374 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.1/jackson-dataformat-xml-2.18.1-javadoc.jar
+2024-12-16 13:18:28,413 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.1/jackson-dataformat-xml-2.18.1-javadoc.jar
+2024-12-16 13:18:28,416 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.18.1
+2024-12-16 13:18:28,420 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-core:2.18.1
+2024-12-16 13:18:28,423 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-annotations:2.18.1
+2024-12-16 13:18:28,426 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-databind:2.18.1
+2024-12-16 13:18:29,017 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/codehaus/woodstox/stax2-api/4.2.2/stax2-api-4.2.2-javadoc.jar
+2024-12-16 13:18:29,048 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/4.2.2/stax2-api-4.2.2-javadoc.jar
+2024-12-16 13:18:29,107 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/4.2.2/stax2-api-4.2.2-javadoc.jar
+2024-12-16 13:18:29,110 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.codehaus.woodstox:stax2-api:4.2.2
+2024-12-16 13:18:29,704 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/woodstox/woodstox-core/7.0.0/woodstox-core-7.0.0-javadoc.jar
+2024-12-16 13:18:29,735 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/7.0.0/woodstox-core-7.0.0-javadoc.jar
+2024-12-16 13:18:29,828 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/7.0.0/woodstox-core-7.0.0-javadoc.jar
+2024-12-16 13:18:29,830 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.woodstox:woodstox-core:7.0.0
+2024-12-16 13:18:29,834 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-loadbalancer:4.2.0-RC1
+2024-12-16 13:18:29,837 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.projectreactor:reactor-core:3.7.0
+2024-12-16 13:18:29,840 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.reactivestreams:reactive-streams:1.0.4
+2024-12-16 13:18:29,843 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.projectreactor.addons:reactor-extra:3.5.2
+2024-12-16 13:18:29,847 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-cache:3.4.0
+2024-12-16 13:18:29,849 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.stoyanr:evictor:1.0.0
+2024-12-16 13:18:30,451 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jaxb/jaxb-runtime/4.0.5/jaxb-runtime-4.0.5-javadoc.jar
+2024-12-16 13:18:30,478 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/4.0.5/jaxb-runtime-4.0.5-javadoc.jar
+2024-12-16 13:18:30,592 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/4.0.5/jaxb-runtime-4.0.5-javadoc.jar
+2024-12-16 13:18:30,595 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jaxb:jaxb-runtime:4.0.5
+2024-12-16 13:18:31,041 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jaxb/jaxb-core/4.0.5/jaxb-core-4.0.5-javadoc.jar
+2024-12-16 13:18:31,071 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/4.0.5/jaxb-core-4.0.5-javadoc.jar
+2024-12-16 13:18:31,132 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/4.0.5/jaxb-core-4.0.5-javadoc.jar
+2024-12-16 13:18:31,136 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jaxb:jaxb-core:4.0.5
+2024-12-16 13:18:31,727 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-javadoc.jar
+2024-12-16 13:18:31,766 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-javadoc.jar
+2024-12-16 13:18:31,798 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-javadoc.jar
+2024-12-16 13:18:31,801 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.eclipse.angus:angus-activation:2.0.2
+2024-12-16 13:18:32,241 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jaxb/txw2/4.0.5/txw2-4.0.5-javadoc.jar
+2024-12-16 13:18:32,279 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/4.0.5/txw2-4.0.5-javadoc.jar
+2024-12-16 13:18:32,325 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/4.0.5/txw2-4.0.5-javadoc.jar
+2024-12-16 13:18:32,327 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jaxb:txw2:4.0.5
+2024-12-16 13:18:32,919 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2-javadoc.jar
+2024-12-16 13:18:32,963 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2-javadoc.jar
+2024-12-16 13:18:33,027 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2-javadoc.jar
+2024-12-16 13:18:33,030 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.sun.istack:istack-commons-runtime:4.1.2
+2024-12-16 13:18:33,624 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1-javadoc.jar
+2024-12-16 13:18:33,662 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1-javadoc.jar
+2024-12-16 13:18:33,679 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-prometheus/1.14.1/micrometer-registry-prometheus-1.14.1-javadoc.jar
+2024-12-16 13:18:33,681 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.micrometer:micrometer-registry-prometheus:1.14.1
+2024-12-16 13:18:33,684 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.micrometer:micrometer-core:1.14.1
+2024-12-16 13:18:33,687 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.micrometer:micrometer-commons:1.14.1
+2024-12-16 13:18:33,690 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.micrometer:micrometer-observation:1.14.1
+2024-12-16 13:18:33,694 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hdrhistogram:HdrHistogram:2.2.2
+2024-12-16 13:18:33,697 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.latencyutils:LatencyUtils:2.0.3
+2024-12-16 13:18:34,286 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3-javadoc.jar
+2024-12-16 13:18:34,317 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3-javadoc.jar
+2024-12-16 13:18:34,345 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-core/1.3.3/prometheus-metrics-core-1.3.3-javadoc.jar
+2024-12-16 13:18:34,348 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.prometheus:prometheus-metrics-core:1.3.3
+2024-12-16 13:18:34,941 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3-javadoc.jar
+2024-12-16 13:18:34,972 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3-javadoc.jar
+2024-12-16 13:18:35,009 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-model/1.3.3/prometheus-metrics-model-1.3.3-javadoc.jar
+2024-12-16 13:18:35,011 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.prometheus:prometheus-metrics-model:1.3.3
+2024-12-16 13:18:35,597 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3-javadoc.jar
+2024-12-16 13:18:35,636 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3-javadoc.jar
+2024-12-16 13:18:35,656 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-config/1.3.3/prometheus-metrics-config-1.3.3-javadoc.jar
+2024-12-16 13:18:35,659 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.prometheus:prometheus-metrics-config:1.3.3
+2024-12-16 13:18:36,263 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3-javadoc.jar
+2024-12-16 13:18:36,300 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3-javadoc.jar
+2024-12-16 13:18:36,314 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-tracer-common/1.3.3/prometheus-metrics-tracer-common-1.3.3-javadoc.jar
+2024-12-16 13:18:36,317 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.prometheus:prometheus-metrics-tracer-common:1.3.3
+2024-12-16 13:18:36,918 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3-javadoc.jar
+2024-12-16 13:18:36,957 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3-javadoc.jar
+2024-12-16 13:18:37,009 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/prometheus-metrics-exposition-formats/1.3.3/prometheus-metrics-exposition-formats-1.3.3-javadoc.jar
+2024-12-16 13:18:37,011 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.prometheus:prometheus-metrics-exposition-formats:1.3.3
+2024-12-16 13:18:37,614 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-devtools/3.4.0/spring-boot-devtools-3.4.0-javadoc.jar
+2024-12-16 13:18:37,645 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.4.0/spring-boot-devtools-3.4.0-javadoc.jar
+2024-12-16 13:18:37,699 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.4.0/spring-boot-devtools-3.4.0-javadoc.jar
+2024-12-16 13:18:37,702 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-devtools:3.4.0
+2024-12-16 13:18:37,705 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot:3.4.0
+2024-12-16 13:18:37,708 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-context:6.2.0
+2024-12-16 13:18:37,711 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-aop:6.2.0
+2024-12-16 13:18:37,715 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-beans:6.2.0
+2024-12-16 13:18:37,719 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-expression:6.2.0
+2024-12-16 13:18:37,723 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-autoconfigure:3.4.0
+2024-12-16 13:18:37,726 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-test:3.4.0
+2024-12-16 13:18:37,728 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter:3.4.0
+2024-12-16 13:18:37,731 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-logging:3.4.0
+2024-12-16 13:18:37,735 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for ch.qos.logback:logback-classic:1.5.12
+2024-12-16 13:18:37,740 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for ch.qos.logback:logback-core:1.5.12
+2024-12-16 13:18:37,743 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:jul-to-slf4j:2.0.16
+2024-12-16 13:18:37,746 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.annotation:jakarta.annotation-api:2.1.1
+2024-12-16 13:18:37,750 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.yaml:snakeyaml:2.3
+2024-12-16 13:18:37,754 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-test:3.4.0
+2024-12-16 13:18:37,758 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-test-autoconfigure:3.4.0
+2024-12-16 13:18:37,762 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.jayway.jsonpath:json-path:2.9.0
+2024-12-16 13:18:37,766 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:slf4j-api:2.0.16
+2024-12-16 13:18:37,770 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.xml.bind:jakarta.xml.bind-api:4.0.2
+2024-12-16 13:18:37,773 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.activation:jakarta.activation-api:2.1.3
+2024-12-16 13:18:37,775 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.minidev:json-smart:2.5.1
+2024-12-16 13:18:37,778 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.minidev:accessors-smart:2.5.1
+2024-12-16 13:18:37,783 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.ow2.asm:asm:9.6
+2024-12-16 13:18:37,786 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.assertj:assertj-core:3.26.3
+2024-12-16 13:18:37,789 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.bytebuddy:byte-buddy:1.15.10
+2024-12-16 13:18:37,791 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.awaitility:awaitility:4.2.2
+2024-12-16 13:18:37,794 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hamcrest:hamcrest:2.2
+2024-12-16 13:18:37,797 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter:5.11.3
+2024-12-16 13:18:37,801 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-api:5.11.3
+2024-12-16 13:18:37,804 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.opentest4j:opentest4j:1.3.0
+2024-12-16 13:18:37,807 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.platform:junit-platform-commons:1.11.3
+2024-12-16 13:18:37,809 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apiguardian:apiguardian-api:1.1.2
+2024-12-16 13:18:37,813 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-params:5.11.3
+2024-12-16 13:18:37,818 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-engine:5.11.3
+2024-12-16 13:18:37,821 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.platform:junit-platform-engine:1.11.3
+2024-12-16 13:18:37,824 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-core:5.14.2
+2024-12-16 13:18:37,828 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.bytebuddy:byte-buddy-agent:1.15.10
+2024-12-16 13:18:37,832 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.objenesis:objenesis:3.3
+2024-12-16 13:18:37,836 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-junit-jupiter:5.14.2
+2024-12-16 13:18:37,839 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.skyscreamer:jsonassert:1.5.3
+2024-12-16 13:18:37,843 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.vaadin.external.google:android-json:0.0.20131108.vaadin1
+2024-12-16 13:18:37,847 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-core:6.2.0
+2024-12-16 13:18:37,850 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-jcl:6.2.0
+2024-12-16 13:18:37,854 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-test:6.2.0
+2024-12-16 13:18:37,858 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.xmlunit:xmlunit-core:2.10.0
+2024-12-16 13:18:50,201 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-context:4.2.0-RC1
+2024-12-16 13:18:50,204 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.4.1
+2024-12-16 13:18:50,208 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-commons:4.2.0-RC1
+2024-12-16 13:18:50,211 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bouncycastle:bcprov-jdk18on:1.78.1
+2024-12-16 13:18:50,215 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-server:4.2.0-RC1
+2024-12-16 13:18:50,218 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:3.4.0
+2024-12-16 13:18:50,221 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:3.4.0
+2024-12-16 13:18:50,224 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.18.1
+2024-12-16 13:18:50,226 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.18.1
+2024-12-16 13:18:50,229 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-parameter-names:2.18.1
+2024-12-16 13:18:50,232 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:3.4.0
+2024-12-16 13:18:50,236 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:10.1.33
+2024-12-16 13:18:50,239 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-el:10.1.33
+2024-12-16 13:18:50,242 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:10.1.33
+2024-12-16 13:18:50,245 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:6.2.0
+2024-12-16 13:18:50,249 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:6.2.0
+2024-12-16 13:18:50,252 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-actuator:3.4.0
+2024-12-16 13:18:50,255 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator-autoconfigure:3.4.0
+2024-12-16 13:18:50,258 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator:3.4.0
+2024-12-16 13:18:50,262 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-jakarta9:1.14.1
+2024-12-16 13:18:50,266 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-freemarker:3.4.0
+2024-12-16 13:18:50,269 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.freemarker:freemarker:2.3.33
+2024-12-16 13:18:50,272 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:6.2.0
+2024-12-16 13:18:50,275 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:4.2.0-RC1
+2024-12-16 13:18:50,279 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client:2.0.4
+2024-12-16 13:18:50,282 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.20
+2024-12-16 13:18:50,285 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.x-stream:mxparser:1.2.2
+2024-12-16 13:18:50,289 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.spectator:spectator-api:1.7.3
+2024-12-16 13:18:50,292 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.3
+2024-12-16 13:18:50,296 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.16
+2024-12-16 13:18:50,300 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-configuration:commons-configuration:1.10
+2024-12-16 13:18:50,303 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2024-12-16 13:18:50,306 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-eventbus:0.3.0
+2024-12-16 13:18:50,309 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-infix:0.3.0
+2024-12-16 13:18:50,312 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-jxpath:commons-jxpath:1.3
+2024-12-16 13:18:50,314 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.3
+2024-12-16 13:18:50,318 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-runtime:3.4
+2024-12-16 13:18:50,322 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:stringtemplate:3.2.1
+2024-12-16 13:18:50,325 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.11.0
+2024-12-16 13:18:50,329 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.servo:servo-core:0.5.3
+2024-12-16 13:18:50,332 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-math:2.2
+2024-12-16 13:18:50,335 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.annotation:javax.annotation-api:1.2
+2024-12-16 13:18:50,339 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jettison:jettison:1.5.4
+2024-12-16 13:18:50,342 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents.client5:httpclient5:5.4.1
+2024-12-16 13:18:50,346 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents.core5:httpcore5:5.3.1
+2024-12-16 13:18:50,350 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents.core5:httpcore5-h2:5.3.1
+2024-12-16 13:18:50,354 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client-jersey3:2.0.4
+2024-12-16 13:18:50,357 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.connectors:jersey-apache-connector:3.1.9
+2024-12-16 13:18:50,360 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.17.1
+2024-12-16 13:18:50,363 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.3.3
+2024-12-16 13:18:50,367 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core-jersey3:2.0.4
+2024-12-16 13:18:50,370 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core:2.0.4
+2024-12-16 13:18:50,373 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:33.3.1-jre
+2024-12-16 13:18:50,377 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:failureaccess:1.0.2
+2024-12-16 13:18:50,380 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.43.0
+2024-12-16 13:18:50,384 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.28.0
+2024-12-16 13:18:50,387 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.j2objc:j2objc-annotations:3.0.0
+2024-12-16 13:18:50,391 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.containers:jersey-container-servlet:3.1.9
+2024-12-16 13:18:50,394 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.containers:jersey-container-servlet-core:3.1.9
+2024-12-16 13:18:50,396 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-common:3.1.9
+2024-12-16 13:18:50,400 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:osgi-resource-locator:1.0.3
+2024-12-16 13:18:50,403 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.ws.rs:jakarta.ws.rs-api:3.1.0
+2024-12-16 13:18:50,406 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-server:3.1.9
+2024-12-16 13:18:50,408 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.inject:jakarta.inject-api:2.0.1
+2024-12-16 13:18:50,411 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:3.0.2
+2024-12-16 13:18:50,413 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-client:3.1.9
+2024-12-16 13:18:50,416 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.inject:jersey-hk2:3.1.9
+2024-12-16 13:18:50,419 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-locator:3.0.6
+2024-12-16 13:18:50,422 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2.external:aopalliance-repackaged:3.0.6
+2024-12-16 13:18:50,425 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-utils:3.0.6
+2024-12-16 13:18:50,427 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.30.2-GA
+2024-12-16 13:18:50,429 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:spring-bridge:3.1.1
+2024-12-16 13:18:50,432 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-api:3.1.1
+2024-12-16 13:18:50,437 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.18.1
+2024-12-16 13:18:50,439 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.18.1
+2024-12-16 13:18:50,442 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.18.1
+2024-12-16 13:18:50,445 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.18.1
+2024-12-16 13:18:50,449 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:stax2-api:4.2.2
+2024-12-16 13:18:50,453 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.woodstox:woodstox-core:7.0.0
+2024-12-16 13:18:50,456 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-loadbalancer:4.2.0-RC1
+2024-12-16 13:18:50,459 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.7.0
+2024-12-16 13:18:50,463 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.4
+2024-12-16 13:18:50,465 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.addons:reactor-extra:3.5.2
+2024-12-16 13:18:50,469 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:3.4.0
+2024-12-16 13:18:50,472 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.stoyanr:evictor:1.0.0
+2024-12-16 13:18:50,475 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:4.0.5
+2024-12-16 13:18:50,478 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-core:4.0.5
+2024-12-16 13:18:50,481 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.angus:angus-activation:2.0.2
+2024-12-16 13:18:50,484 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:4.0.5
+2024-12-16 13:18:50,487 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:4.1.2
+2024-12-16 13:18:50,490 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-registry-prometheus:1.14.1
+2024-12-16 13:18:50,493 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-core:1.14.1
+2024-12-16 13:18:50,496 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-commons:1.14.1
+2024-12-16 13:18:50,499 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-observation:1.14.1
+2024-12-16 13:18:50,502 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hdrhistogram:HdrHistogram:2.2.2
+2024-12-16 13:18:50,505 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.latencyutils:LatencyUtils:2.0.3
+2024-12-16 13:18:50,508 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-core:1.3.3
+2024-12-16 13:18:50,510 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-model:1.3.3
+2024-12-16 13:18:50,513 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-config:1.3.3
+2024-12-16 13:18:50,515 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-tracer-common:1.3.3
+2024-12-16 13:18:50,519 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.prometheus:prometheus-metrics-exposition-formats:1.3.3
+2024-12-16 13:18:50,522 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.4.0
+2024-12-16 13:18:50,525 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:3.4.0
+2024-12-16 13:18:50,528 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:6.2.0
+2024-12-16 13:18:50,531 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:6.2.0
+2024-12-16 13:18:50,534 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:6.2.0
+2024-12-16 13:18:50,537 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:6.2.0
+2024-12-16 13:18:50,540 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:3.4.0
+2024-12-16 13:18:50,543 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:3.4.0
+2024-12-16 13:18:50,548 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:3.4.0
+2024-12-16 13:18:50,551 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:3.4.0
+2024-12-16 13:18:50,554 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.5.12
+2024-12-16 13:18:50,557 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-core:1.5.12
+2024-12-16 13:18:50,560 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-to-slf4j:2.24.1
+2024-12-16 13:18:50,564 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.24.1
+2024-12-16 13:18:50,567 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jul-to-slf4j:2.0.16
+2024-12-16 13:18:50,570 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.annotation:jakarta.annotation-api:2.1.1
+2024-12-16 13:18:50,574 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:2.3
+2024-12-16 13:18:50,576 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:3.4.0
+2024-12-16 13:18:50,581 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:3.4.0
+2024-12-16 13:18:50,585 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jayway.jsonpath:json-path:2.9.0
+2024-12-16 13:18:50,589 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:2.0.16
+2024-12-16 13:18:50,594 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.xml.bind:jakarta.xml.bind-api:4.0.2
+2024-12-16 13:18:50,598 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.activation:jakarta.activation-api:2.1.3
+2024-12-16 13:18:50,602 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:json-smart:2.5.1
+2024-12-16 13:18:50,606 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:accessors-smart:2.5.1
+2024-12-16 13:18:50,611 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm:9.6
+2024-12-16 13:18:50,614 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.assertj:assertj-core:3.26.3
+2024-12-16 13:18:50,618 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.15.10
+2024-12-16 13:18:50,622 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.awaitility:awaitility:4.2.2
+2024-12-16 13:18:50,625 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest:2.2
+2024-12-16 13:18:50,629 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter:5.11.3
+2024-12-16 13:18:50,637 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.11.3
+2024-12-16 13:18:50,641 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.3.0
+2024-12-16 13:18:50,644 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.11.3
+2024-12-16 13:18:50,647 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.1.2
+2024-12-16 13:18:50,650 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-params:5.11.3
+2024-12-16 13:18:50,655 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.11.3
+2024-12-16 13:18:50,658 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.11.3
+2024-12-16 13:18:50,662 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:5.14.2
+2024-12-16 13:18:50,665 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.15.10
+2024-12-16 13:18:50,668 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.objenesis:objenesis:3.3
+2024-12-16 13:18:50,673 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-junit-jupiter:5.14.2
+2024-12-16 13:18:50,676 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.skyscreamer:jsonassert:1.5.3
+2024-12-16 13:18:50,680 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.vaadin.external.google:android-json:0.0.20131108.vaadin1
+2024-12-16 13:18:50,683 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:6.2.0
+2024-12-16 13:18:50,686 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:6.2.0
+2024-12-16 13:18:50,690 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:6.2.0
+2024-12-16 13:18:50,694 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xmlunit:xmlunit-core:2.10.0
+2024-12-16 13:19:02,189 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-16 13:19:02,449 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:19:03,806 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-12-16 13:20:08,936 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:20:42,782 [Worker-62: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:20:57,709 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:20:58,639 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:20:58,652 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:20:58,655 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\server\src\test\resources
+2024-12-16 13:20:58,705 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-16 13:20:58,965 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-server:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\server\pom.xml.
+2024-12-16 13:20:59,801 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2024-12-16 13:20:59,801 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2024-12-16 13:20:59,802 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2024-12-16 13:20:59,802 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2024-12-16 13:20:59,803 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/test/resources
+2024-12-16 13:21:00,352 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-12-16 13:21:00,577 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 13:21:00,596 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:21:00,600 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\server\src\test\resources
+2024-12-16 13:22:41,768 [Worker-58: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:api-serve-example-gateway:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\gateway\pom.xml.
+2024-12-16 13:22:44,491 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:22:44,491 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:22:44,494 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\gateway\src\test\resources
+2024-12-16 13:23:18,344 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rcosta:api-bank:0.0.1-SNAPSHOT @ D:\Projetos\Java\api-bank-microservice\microservices\api-bank\pom.xml.
+2024-12-16 13:23:20,209 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:23:20,210 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 13:23:20,214 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos\Java\api-bank-microservice\microservices\api-bank\src\test\resources
