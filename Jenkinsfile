@@ -12,7 +12,7 @@ pipeline {
         stage('Preparação do Ambiente') {
             steps {
                 echo "Clonando ou atualizando repositório..."
-                git url: "${REPO_URL}", branch: 'main'
+                git url: "${REPO_URL}", branch: 'main', credentialsId: 'github-creds'
             }
         }
 
