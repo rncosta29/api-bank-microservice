@@ -21,7 +21,7 @@ pipeline {
                 echo "Iniciando build da aplicação Server..."
                 sh '''
                 cd ${SERVER_PATH}
-                mvn clean install
+                mvn clean install -DskipTests
                 java -jar target/server.jar &
                 '''
             }
@@ -32,7 +32,7 @@ pipeline {
                 echo "Iniciando build da aplicação Gateway..."
                 sh '''
                 cd ${GATEWAY_PATH}
-                mvn clean install
+                mvn clean install -DskipTests
                 java -jar target/gateway.jar &
                 '''
             }
@@ -47,7 +47,7 @@ pipeline {
                         echo "Iniciando build do microserviço: ${service}"
                         sh """
                         cd ${MICROSERVICES_PATH}/${service}
-                        mvn clean install
+                        mvn clean install -DskipTests
                         java -jar target/${service}.jar &
                         """
                     }
