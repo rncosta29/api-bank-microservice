@@ -1,25 +1,18 @@
 package br.com.rcosta.config;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.web.cors.CorsConfiguration;
-import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
-import org.springframework.web.filter.CorsFilter;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
-public class GatewayConfig {
+public class GatewayConfig implements WebMvcConfigurer {
 
-	@Bean
-	public CorsFilter corsFilter() {
-		CorsConfiguration config = new CorsConfiguration();
-		config.setAllowCredentials(true); // Permite envio de cookies, se necessário
-		config.addAllowedOriginPattern("*"); // Permite todas as origens (ou especifique as permitidas)
-		config.addAllowedHeader("*"); // Permite todos os headers
-		config.addAllowedMethod("*"); // Permite todos os métodos HTTP
-
-		UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-		source.registerCorsConfiguration("/**", config); // Aplica a configuração para todos os endpoints
-
-		return new CorsFilter(source);
-	}
+    @Override
+    public void addCorsMappings(CorsRegistry registry) {
+        registry.addMapping("/**")
+                .allowedOrigins("*")  // Permite as origens do Angular e React Native
+                .allowedMethods("*") // Métodos permitidos
+                .allowedHeaders("*") // Permite todos os headers
+                .allowCredentials(false);  // Permite envio de credenciais, se necessário (cookies, tokens, etc)
+    }
 }
