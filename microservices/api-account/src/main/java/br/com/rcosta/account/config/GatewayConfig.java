@@ -11,8 +11,8 @@ public class GatewayConfig implements WebMvcConfigurer {
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
                 .allowedOrigins("*")  // Permite as origens do Angular e React Native
-                .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // Métodos permitidos
+                .allowedMethods("*") // Métodos permitidos
                 .allowedHeaders("*") // Permite todos os headers
-                .allowCredentials(true);  // Permite envio de credenciais, se necessário (cookies, tokens, etc)
+                .allowCredentials(false);  // Permite envio de credenciais, se necessário (cookies, tokens, etc)
     }
 }
