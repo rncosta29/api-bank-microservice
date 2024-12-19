@@ -3,6 +3,7 @@ package br.com.rcosta.account.controller;
 import java.net.URI;
 
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -16,6 +17,7 @@ import br.com.rcosta.account.services.PersonalAccountService;
 
 @RestController
 @RequestMapping("/api/v1/personal-account")
+@CrossOrigin(origins = "*")
 public class PersonalAccountController {
 
 	private PersonalAccountService personalAccountService;
