@@ -14,9 +14,9 @@ public class SwaggerConfigurations {
 	OpenAPI customOpenAPI() {
 		return new OpenAPI()
 			.info(new Info()
-				.title("API para loja de Doces")
+				.title("API para cadastro de Contas")
 				.version("v1")
-				.description("Controle e cadastro de pedidos")
+				.description("Controle e cadastro de contas")
 				.termsOfService("https://www.linkedin.com/in/rafael-neres-da-costa/")
 				.license(
 					new License()
