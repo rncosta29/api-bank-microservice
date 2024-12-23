@@ -12,8 +12,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
+import br.com.rcosta.account.dto.DebitAccountDto;
 import br.com.rcosta.account.dto.PersonalAccountDto;
 import br.com.rcosta.account.services.PersonalAccountService;
+import jakarta.validation.Valid;
 
 @RestController
 @RequestMapping("/api/v1/personal-account")
@@ -40,4 +42,10 @@ public class PersonalAccountController {
 		
 		return ResponseEntity.ok(dto);
 	}
+	
+	@PostMapping("/{id}/add-debit")
+    public ResponseEntity<DebitAccountDto> addDebitToPersonalAccount(@PathVariable Long id, @Valid @RequestBody DebitAccountDto debitDto) {
+		DebitAccountDto dto = personalAccountService.addDebitToPersonalAccount(id, debitDto);
+        return ResponseEntity.ok().body(dto);
+    }
 }

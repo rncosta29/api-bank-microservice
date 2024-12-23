@@ -1,8 +1,6 @@
 package br.com.rcosta.account.services;
 
-import java.util.List;
-import java.util.stream.Collectors;
-
+import org.hibernate.Hibernate;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;
 
@@ -13,6 +11,7 @@ import br.com.rcosta.account.model.PersonalAccountModel;
 import br.com.rcosta.account.repositories.DebitAccountRepository;
 import br.com.rcosta.account.repositories.PersonalAccountRepository;
 import jakarta.persistence.EntityNotFoundException;
+import jakarta.transaction.Transactional;
 
 @Service
 public class PersonalAccountService {
@@ -27,33 +26,37 @@ public class PersonalAccountService {
 		this.modelMapper = modelMapper;
 	}
 	
-	public List<PersonalAccountDto> allPersonalAccount() {
-		List<PersonalAccountDto> listModel = personalAccountRepository.findAll().stream().map(c -> modelMapper.map(c, PersonalAccountDto.class))
-				.collect(Collectors.toList());
-		
-		for (PersonalAccountDto personalAccountDto : listModel) {
-			List<DebitAccountModel> list = debitAccountRepository.findByPersonalAccountId(personalAccountDto.getId());
-			personalAccountDto.setDebitAccountModel(list.stream().map(dto -> modelMapper.map(dto, DebitAccountDto.class)).collect(Collectors.toList()));
-		}
-		
-		return listModel;
-	}
-	
 	public PersonalAccountDto addPersonalAccount(PersonalAccountDto dto) {
-		PersonalAccountModel model = modelMapper.map(dto, PersonalAccountModel.class);
-		personalAccountRepository.save(model);
-		
-		return modelMapper.map(model, PersonalAccountDto.class);
+        PersonalAccountModel model = modelMapper.map(dto, PersonalAccountModel.class);
+        personalAccountRepository.save(model);
+        return modelMapper.map(model, PersonalAccountDto.class);
+    }
+
+    public PersonalAccountDto getPersonalAccountById(Long id) {
+        PersonalAccountModel model = personalAccountRepository.findById(id)
+            .orElseThrow(() -> new EntityNotFoundException("Conta não encontrada."));
+        model.updateBalance();
+        return modelMapper.map(model, PersonalAccountDto.class);
+    }
+
+    @Transactional
+	public DebitAccountDto addDebitToPersonalAccount(Long personalAccountId, DebitAccountDto debitDto) {
+	    PersonalAccountModel personalAccount = personalAccountRepository.findById(personalAccountId)
+	        .orElseThrow(() -> new EntityNotFoundException("Conta não encontrada."));
+
+	    Hibernate.initialize(personalAccount.getDebitAccounts());
+
+	    DebitAccountModel debit = modelMapper.map(debitDto, DebitAccountModel.class);
+	    debit.setPersonalAccount(personalAccount);
+
+	    debitAccountRepository.save(debit);
+	    debitAccountRepository.flush(); // Sincroniza imediatamente com o banco
+
+	    personalAccount.updateBalance();
+	    personalAccountRepository.save(personalAccount);
+	    personalAccountRepository.flush(); // Sincroniza o saldo atualizado
+
+	    return modelMapper.map(debit, DebitAccountDto.class);
 	}
-	
-	public PersonalAccountDto getPersonalAccountById(Long id) {
-		PersonalAccountModel model =  personalAccountRepository.findById(id)
-				.orElseThrow(() -> new EntityNotFoundException());
-		List<DebitAccountModel> list = debitAccountRepository.findByPersonalAccountId(id);
-		PersonalAccountDto newModel = modelMapper.map(model, PersonalAccountDto.class);
-		
-		newModel.setDebitAccountModel(list.stream().map(dto -> modelMapper.map(dto, DebitAccountDto.class)).collect(Collectors.toList()));
-		
-		return newModel;
-	}
+
 }

@@ -4,11 +4,12 @@ import java.io.Serializable;
 import java.time.LocalDate;
 import java.util.Objects;
 
-import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 
@@ -26,8 +27,9 @@ public class DebitAccountModel implements Serializable {
 	private LocalDate date;
 	private Double price;
 	
-	@ManyToOne(cascade = CascadeType.PERSIST, targetEntity = PersonalAccountModel.class)
-	private PersonalAccountModel personalAccount;
+	@ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "personal_account_id")
+    private PersonalAccountModel personalAccount;
 	
 	public DebitAccountModel() { }
 
@@ -63,20 +65,26 @@ public class DebitAccountModel implements Serializable {
 	}
 
 	public Double getPrice() {
-		return price;
-	}
+        return price;
+    }
 
-	public void setPrice(Double price) {
-		this.price = price;
-	}
+    public void setPrice(Double price) {
+        this.price = price;
+        if (personalAccount != null) {
+            personalAccount.updateBalance();
+        }
+    }
 
-	public PersonalAccountModel getPersonalAccountModel() {
-		return personalAccount;
-	}
+    public PersonalAccountModel getPersonalAccount() {
+        return personalAccount;
+    }
 
-	public void setPersonalAccountModel(PersonalAccountModel personalAccountModel) {
-		this.personalAccount = personalAccountModel;
-	}
+    public void setPersonalAccount(PersonalAccountModel personalAccount) {
+        this.personalAccount = personalAccount;
+        if (personalAccount != null) {
+            personalAccount.updateBalance();
+        }
+    }
 
 	@Override
 	public int hashCode() {

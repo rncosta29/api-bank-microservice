@@ -1,12 +1,17 @@
 package br.com.rcosta.account.model;
 
 import java.io.Serializable;
+import java.util.List;
 import java.util.Objects;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 @Entity
@@ -21,6 +26,10 @@ public class PersonalAccountModel implements Serializable {
 	
 	private String nameAccount;
 	private Double balance;
+	
+	@JsonIgnore
+    @OneToMany(mappedBy = "personalAccount", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<DebitAccountModel> debitAccounts;
 	
 	public PersonalAccountModel() { }
 	
@@ -53,6 +62,24 @@ public class PersonalAccountModel implements Serializable {
 	public void setBalance(Double balance) {
 		this.balance = balance;
 	}
+	
+	public List<DebitAccountModel> getDebitAccounts() {
+        return debitAccounts;
+    }
+
+    public void setDebitAccounts(List<DebitAccountModel> debitAccounts) {
+        this.debitAccounts = debitAccounts;
+        updateBalance();
+    }
+
+    public void updateBalance() {
+        this.balance = debitAccounts != null
+            ? debitAccounts.stream()
+                .filter(debit -> debit.getPrice() != null) // Ignora débitos com valores nulos
+                .mapToDouble(DebitAccountModel::getPrice)
+                .sum()
+            : 0.0;
+    }
 
 	@Override
 	public int hashCode() {
