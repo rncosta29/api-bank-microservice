@@ -26,6 +26,10 @@ public class DebitAccountController {
 
 	private DebitAccountService debitAccountService;
 	
+	public DebitAccountController(DebitAccountService debitAccountService) {
+		this.debitAccountService = debitAccountService;
+	}
+	
 	@GetMapping()
 	public ResponseEntity<List<DebitAccountDto>> findAllDebits() {
 		return ResponseEntity.ok(debitAccountService.allDebits());
