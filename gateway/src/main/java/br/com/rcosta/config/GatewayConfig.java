@@ -7,12 +7,12 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Configuration
 public class GatewayConfig implements WebMvcConfigurer {
 
-    @Override
+	@Override
     public void addCorsMappings(CorsRegistry registry) {
-        registry.addMapping("/**")
-                .allowedOrigins("*")  // Permite as origens do Angular e React Native
-                .allowedMethods("*") // Métodos permitidos
+        registry.addMapping("/**") // Permite todas as rotas da API
+                .allowedOrigins("http://localhost:4200") // Permite a origem do Angular
+                .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // Métodos permitidos
                 .allowedHeaders("*") // Permite todos os headers
-                .allowCredentials(false);  // Permite envio de credenciais, se necessário (cookies, tokens, etc)
+                .allowCredentials(true); // Permite envio de cookies/tokens
     }
 }
