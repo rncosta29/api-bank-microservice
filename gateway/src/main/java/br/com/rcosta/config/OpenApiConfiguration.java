@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class OpenApiConfiguration {
 
-    @Bean
+	@Bean
     public List<GroupedOpenApi> apis(SwaggerUiConfigParameters config, RouteDefinitionLocator locator) {
         var definitions = locator.getRouteDefinitions().collectList().block();
         List<GroupedOpenApi> groupedOpenApis = new ArrayList<>();
@@ -21,17 +21,21 @@ public class OpenApiConfiguration {
             .forEach(routeDefinition -> {
                 String name = routeDefinition.getId();
                 config.addGroup(name);  // Adiciona o grupo ao Swagger UI
+
+                // O caminho para o Swagger dos microserviços
+                String swaggerUrl = "/" + name + "/v3/api-docs";
+
+                // Configuração do Swagger UI para o microserviço
                 GroupedOpenApi groupedOpenApi = GroupedOpenApi.builder()
                     .pathsToMatch("/" + name + "/**")
                     .group(name)
+                    .addOpenApiCustomizer(openApi -> openApi.setServers(
+                        List.of(new io.swagger.v3.oas.models.servers.Server().url(swaggerUrl))))
                     .build();
+
                 groupedOpenApis.add(groupedOpenApi);
             });
 
         return groupedOpenApis;
     }
-
-    // Remover a configuração manual do MultipleOpenApiWebFluxResource
-    // @Bean
-    // public MultipleOpenApiWebFluxResource multipleOpenApiResource(...) { ... }
 }
