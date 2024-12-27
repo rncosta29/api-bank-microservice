@@ -14,12 +14,4 @@ public class OpenApiConfiguration {
                 .pathsToMatch("/api-account/**")
                 .build();
     }
-	
-	@Bean
-    public GroupedOpenApi apiBank() {
-        return GroupedOpenApi.builder()
-                .group("api-bank")
-                .pathsToMatch("/api-bank/**")
-                .build();
-    }
 }

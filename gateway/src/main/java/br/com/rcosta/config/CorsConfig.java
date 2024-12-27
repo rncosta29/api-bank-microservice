@@ -12,10 +12,10 @@ public class CorsConfig {
 	@Bean
     public CorsWebFilter corsWebFilter() {
         CorsConfiguration config = new CorsConfiguration();
-        config.addAllowedOrigin("*"); // Permitir a origem do Angular
+        config.addAllowedOrigin("http://localhost:4200"); // Permitir a origem do Angular
         config.addAllowedMethod("*"); // Permitir todos os métodos (GET, POST, etc.)
         config.addAllowedHeader("*"); // Permitir todos os headers
-        config.setAllowCredentials(false); // Permitir cookies ou credenciais
+        config.setAllowCredentials(true); // Permitir cookies ou credenciais
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", config); // Aplicar a todas as rotas

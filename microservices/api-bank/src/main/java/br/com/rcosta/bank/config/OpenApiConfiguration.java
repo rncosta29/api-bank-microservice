@@ -6,14 +6,6 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class OpenApiConfiguration {
-
-	@Bean
-    public GroupedOpenApi apiAccount() {
-        return GroupedOpenApi.builder()
-                .group("api-account")
-                .pathsToMatch("/api-account/**")
-                .build();
-    }
 	
 	@Bean
     public GroupedOpenApi apiBank() {

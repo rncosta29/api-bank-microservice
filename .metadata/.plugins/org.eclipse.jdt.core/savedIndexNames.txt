@@ -20,7 +20,6 @@ INDEX VERSION 1.134+D:\Projetos\Java\api-bank-microservice\.metadata\.plugins\or
 2173030509.index
 3315602276.index
 1201224056.index
-3996728289.index
 4294409423.index
 967805755.index
 2461411560.index
