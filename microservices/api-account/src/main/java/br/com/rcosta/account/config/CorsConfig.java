@@ -12,7 +12,7 @@ public class CorsConfig implements WebMvcConfigurer {
 	@Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
-                .allowedOrigins("") // Permitir chamadas do Angular
+                .allowedOrigins("*") // Permitir chamadas do Angular
                 .allowedMethods("*") // Permitir todos os métodos HTTP
                 .allowedHeaders("*") // Permitir todos os headers
                 .allowCredentials(true); // Permitir credenciais, se necessário
