@@ -11,8 +11,8 @@ public class ApiGatewayConfiguration {
 	@Bean
     RouteLocator gatewayRouter(RouteLocatorBuilder builder) {
     	return builder.routes()
-        		.route(p -> p.path("/API-ACCOUNT/**").uri("lb://api-account"))
-        		.route(p -> p.path("/API-BANK/**").uri("lb://api-bank"))
+        		.route(p -> p.path("/API-ACCOUNT/**").uri("lb://API-ACCOUNT"))
+        		.route(p -> p.path("/API-BANK/**").uri("lb://API-BANK"))
         		.build();
     }
 }
