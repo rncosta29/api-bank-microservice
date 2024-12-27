@@ -1,27 +1,41 @@
 package br.com.rcosta.config;
 
-import org.springframework.context.annotation.Bean;
+import org.springframework.cloud.gateway.filter.GatewayFilterChain;
+import org.springframework.cloud.gateway.filter.GlobalFilter;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.web.cors.CorsConfiguration;
-import org.springframework.web.cors.reactive.CorsWebFilter;
-import org.springframework.web.cors.reactive.UrlBasedCorsConfigurationSource;
+import org.springframework.core.Ordered;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.HttpStatus;
+import org.springframework.web.server.ServerWebExchange;
+
+import reactor.core.publisher.Mono;
 
 @Configuration
-public class CorsConfig {
+public class CorsConfig implements GlobalFilter, Ordered {
 
-	@Bean
-    public CorsWebFilter corsWebFilter() {
-        CorsConfiguration config = new CorsConfiguration();
-        config.addAllowedOrigin("http://localhost:4200"); // Permitir a origem do Angular
-        config.addAllowedMethod("*"); // Permitir todos os métodos (GET, POST, etc.)
-        config.addAllowedHeader("*"); // Permitir todos os headers
-        config.setAllowCredentials(true); // Permitir cookies ou credenciais
+	@Override
+    public Mono<Void> filter(ServerWebExchange exchange, GatewayFilterChain chain) {
+        HttpHeaders headers = exchange.getResponse().getHeaders();
 
-        UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-        source.registerCorsConfiguration("/**", config); // Aplicar a todas as rotas
-        
-        System.out.println("CORS configuration loaded");
+        // Permite qualquer origem
+        headers.add(HttpHeaders.ACCESS_CONTROL_ALLOW_ORIGIN, "*");
+        headers.add(HttpHeaders.ACCESS_CONTROL_ALLOW_METHODS, "GET, POST, PUT, DELETE, OPTIONS");
+        headers.add(HttpHeaders.ACCESS_CONTROL_ALLOW_HEADERS, "*");
+        headers.add(HttpHeaders.ACCESS_CONTROL_ALLOW_CREDENTIALS, "false"); // Não permite credenciais
 
-        return new CorsWebFilter(source);
+        // Verifica se é uma requisição preflight (OPTIONS)
+        if (exchange.getRequest().getMethod() == HttpMethod.OPTIONS) {
+            exchange.getResponse().setStatusCode(HttpStatus.OK); // Retorna OK para pré-verificação
+            return Mono.empty();
+        }
+
+        // Continua a execução para outras requisições
+        return chain.filter(exchange);
+    }
+
+    @Override
+    public int getOrder() {
+        return Ordered.HIGHEST_PRECEDENCE; // Alta prioridade
     }
 }
