@@ -19,6 +19,8 @@ public class CorsConfig {
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", config); // Aplicar a todas as rotas
+        
+        System.out.println("CORS configuration loaded");
 
         return new CorsWebFilter(source);
     }
