@@ -1,27 +1,17 @@
 package br.com.rcosta.config;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.web.cors.CorsConfiguration;
-import org.springframework.web.cors.reactive.UrlBasedCorsConfigurationSource;
-import org.springframework.web.server.WebFilter;
+import org.springframework.web.reactive.config.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
-public class CorsGlobalConfiguration {
+public class CorsGlobalConfiguration implements WebMvcConfigurer {
 
-	@Bean
-    public WebFilter corsFilter() {
-        UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-        CorsConfiguration config = new CorsConfiguration();
-        config.addAllowedOrigin("*");
-        config.addAllowedMethod("*");
-        config.addAllowedHeader("*");
-        source.registerCorsConfiguration("/**", config);
-        return (exchange, chain) -> {
-            if (exchange.getRequest().getMethod() != null) {
-                exchange.getResponse().getHeaders().add("Access-Control-Allow-Origin", "*");
-            }
-            return chain.filter(exchange);
-        };
+	public void addCorsMappings(CorsRegistry registry) {
+        registry.addMapping("/**") // Aplica CORS a todos os endpoints
+                .allowedOriginPatterns("*") // Permite todas as origens
+                .allowedMethods("*")       // Permite todos os métodos HTTP
+                .allowedHeaders("*")       // Permite todos os cabeçalhos
+                .allowCredentials(true);   // Permite credenciais (se necessário)
     }
 }
