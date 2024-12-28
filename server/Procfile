@@ -1,1 +1,0 @@
-web: java -Dserver.port=$PORT -jar target/api-server-example-server-001-SNAPSHOT.jar
